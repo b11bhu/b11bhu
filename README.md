@@ -2,7 +2,7 @@
 - 👀 I’m interested in FullStackDeveloper
 - 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on .Frontend Technologies
-- 📫 How to reach me on Mail- bibhumudad@123gmail.com
+- 📫 How to reach me on Mail- bibhumudad123@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... i Love Coding
 
