@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently Looking Job in **Frontend Development**
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
